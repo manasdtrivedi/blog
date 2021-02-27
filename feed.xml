@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-02-27T06:38:52+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">HackVerse Tracks and Sample Solutions</title><link href="/blog/hackverse-tracks" rel="alternate" type="text/html" title="HackVerse Tracks and Sample Solutions" /><published>2021-02-27T00:00:00+00:00</published><updated>2021-02-27T00:00:00+00:00</updated><id>/blog/hackverse-tracks</id><content type="html" xml:base="/blog/hackverse-tracks">&lt;p&gt;The HackVerse 2.0 mascot, Cody will be briefing you on the tracks of HackVerse.&lt;/p&gt;
+
+&lt;p&gt;Greetings, skipper! Welcome to the starboard of the HackVerse submarine! Today we shall be charting out the itinerary of your underwater voyage. You and your crewmates must use one of the following currents of the Arabian Sea to arrive at your destination.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/1.jpg&quot; alt=&quot;nitk beach&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;track-1-lets-have-fun&quot;&gt;Track 1: Let’s Have Fun!&lt;/h2&gt;
+
+&lt;p&gt;Over the past few months, there’s been quite a bit of boredom among us. The forces of gaming and coding must combine and speedrun through creating the ultimate entertainment application. Only then shall humanity be freed from the dungeons of dullness, and released into the land of leisure and excitement…&lt;/p&gt;
+
+&lt;p&gt;For this track, create or modify a piece of software dedicated to entertainment and fun. This would include things like building a new video game, reviving abandonware games by adding new features, and creating any fun application containing audio and/or video.&lt;/p&gt;
+
+&lt;p&gt;A rather ambitious instance of such a software would be an application which listens to a person singing, identifies the song, and plays the corresponding karaoke track matching the tempo of the singer in real time.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-2-lets-connect&quot;&gt;Track 2: Let’s Connect!&lt;/h2&gt;
+
+&lt;p&gt;Staying connected online in the Era of the Lockdown has perhaps been the only thing keeping us going. Almost all forms of social interaction have been ported online, whether it’s Work From Home, online classes, or virtual freshers parties!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/2.jpg&quot; alt=&quot;lets connect pawri meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Along this track, you’d be building a solution which acts as an online substitute for a conventionally offline social gathering or interaction.&lt;/p&gt;
+
+&lt;p&gt;A specimen of such a hack could be a dedicated alumni reunion application. Guess it’s about time I reconnected with my long-lost buccaneers from diving school!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-3-lets-stay-fit&quot;&gt;Track 3: Let’s Stay Fit!&lt;/h2&gt;
+
+&lt;p&gt;Being a scuba diver, I must maintain my fitness at all times to explore the depths of the ocean. To keep a tab on my fitness levels, I’ve filled up my smart goggles to the brim with apps which monitor my daily activity.&lt;/p&gt;
+
+&lt;p&gt;If you choose to follow this track, you’d be creating a solution which shall help your fellow humans (and my fellow divers!) in maintaining their health.&lt;/p&gt;
+
+&lt;p&gt;An idea for a solution in this field could be an application which intelligently suggests a workout routine based on the health and fitness of the user. Gotta hustle for that muscle!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-4-lets-go-contactless&quot;&gt;Track 4: Let’s Go Contactless!&lt;/h2&gt;
+
+&lt;p&gt;Before the pandemic, there were certain things which conventionally required human interaction. But thanks to the work of countless hackers across the globe, we now have contactless alternatives for dozens of things which required physical contact.&lt;/p&gt;
+
+&lt;p&gt;Drawing inspiration from this community, build a solution which embraces the idea of going contactless.&lt;/p&gt;
+
+&lt;p&gt;An instance for such a solution would be building a truly contactless biometric system, which replaces traditional fingerprint authentication. You could also perhaps build a contactless steering system for your submarine!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-5-lets-stay-safe&quot;&gt;Track 5: Let’s Stay Safe!&lt;/h2&gt;
+
+&lt;p&gt;Defend your submarine against the Trojan Seahorse!&lt;/p&gt;
+
+&lt;p&gt;For this track, you’d be building a cybersecurity solution for securing a computer, server, electronic system, network, data, or similar from malicious attacks carried out by black hat seahorses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/3.jpg&quot; alt=&quot;hackerman meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A possible solution in this domain would be to create a secure chat application. Sounds like unchartered territory? Check out this Make With HackVerse tutorial to build one!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-6-lets-innovate&quot;&gt;Track 6: Let’s Innovate!&lt;/h2&gt;
+
+&lt;p&gt;The mother of humankind’s most important abilities, innovation has impacted essentially all domains of our life, whether it’s pulling off emergency all-nighters under an LED bulb, conserving fossil fuels by using electric cars, or viewing this blog post on a smartphone!&lt;/p&gt;
+
+&lt;p&gt;This track represents the boundlessness of the ocean. The grounds (or &lt;em&gt;cough&lt;/em&gt; the seas) are open for innovation. Come up with any innovative hack that could make your everyday life easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/4.jpg&quot; alt=&quot;bill gates meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaking of making life easier during the age of online classes, an instance of an innovative solution could perhaps be building an MS Teams Auto-Attender!&lt;/p&gt;</content><author><name>[&quot;niraj&quot;, &quot;manas&quot;]</name></author><category term="hackverse2.0" /><summary type="html">The HackVerse 2.0 mascot, Cody will be briefing you on the tracks of HackVerse.</summary></entry><entry><title type="html">The Explorer’s Guide To HackVerse 2.0</title><link href="/blog/the-explorers-guide-to-hackverse-2" rel="alternate" type="text/html" title="The Explorer's Guide To HackVerse 2.0" /><published>2021-02-03T01:00:00+00:00</published><updated>2021-02-03T01:00:00+00:00</updated><id>/blog/the-explorers-guide-to-hackverse-2</id><content type="html" xml:base="/blog/the-explorers-guide-to-hackverse-2">&lt;pre&gt;
+You have opened this message.
+
+Your mission, should you choose to accept it, is to navigate the treacherous waters
+of the Arabian sea until you get to the HackVerse 2.0 submarine.
+Once you’re in there, you’re safe.
+
+--- Message transmission terminated.
+&lt;/pre&gt;
+
+&lt;p&gt;The HackVerse 2.0 mascot, Cody will guide you on your journey.&lt;/p&gt;
+
+&lt;p&gt;Hello HackVerse aspirants!
+I’m Cody, your favourite underwater mascot and I’m here to help you out on your exciting underwater voyage, from the dock of registration to the starboard of results. Hold your breath…&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-1&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 1:&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-dock-of-registration&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;THE DOCK OF REGISTRATION&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+To participate, form a team of 2 to 3 people.
+Can’t find teammates? Don’t worry, you can still register individually, and find other participants who have also individually registered later on to team up with.&lt;/p&gt;
+
+&lt;p&gt;Each aspirant, whether a member of a team or not, has to fill in the application form.&lt;/p&gt;
+
+&lt;p&gt;READY OR NOT? DIVE IN!&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-2-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 2 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;get-acquainted-with-a-deep-sea-creature-the-application-form&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GET ACQUAINTED WITH A DEEP SEA CREATURE, THE APPLICATION FORM&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Go to the &lt;a href=&quot;https://hackverse.nitk.ac.in/&quot;&gt;HackVerse Website&lt;/a&gt;, and click the ‘Apply with Devfolio’ button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/website.jpg&quot; alt=&quot;HackVerse 2.0 website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then be directed to create an account/login on Devfolio.&lt;/p&gt;
+
+&lt;p&gt;Upon signing up/logging in, you will be directed to the HackVerse dashboard on Devfolio. Click ‘Continue to the application’ to go to the HackVerse application form. This application is what will be reviewed by the HackVerse team for the initial filtering of participants, so do fill it carefully!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/devfolio.jpg&quot; alt=&quot;Application Form&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two sections of the application, one occupying the top half of the page, the other, the bottom. The first section pertains to the necessary paperwork - things required by us, from you, formally. There are five subsections in this section - About, Education, Experience, Links, and Contact. You can move to the next subsection only after completing the current subsection by clicking the ‘Next: &amp;lt;subsection&amp;gt;’ button. You can move back to a previous subsection any time by clicking the ‘Previous: &amp;lt;subsection&amp;gt;’ button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/1.png&quot; alt=&quot;Application Step-1&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-3-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 3 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;youre-nearing-your-destination-flap-your-flippers-and-dive-deeper&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YOU’RE NEARING YOUR DESTINATION! FLAP YOUR FLIPPERS AND DIVE DEEPER...&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Once you’ve completed the first section, move to the second section - the one where you give us an idea of your hacking expertise. Upon filling the fields in this section, tick the checkboxes at the bottom of the page to complete the application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/2.png&quot; alt=&quot;Application Step-2&quot; /&gt;
+&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/3.png&quot; alt=&quot;Application Step-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At this point, there are two roads to choose from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you’re applying as a team, click the ‘Join or create team’ button. One of the team members would be required to create a team by providing a team name, and would then obtain a team code. The other team members would use this code to join the team.&lt;/li&gt;
+  &lt;li&gt;If you’re applying individually (and form a team with other individual participants later on), click the ‘Submit individual application’ button.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/4.png&quot; alt=&quot;Application Step-4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;AH! THERE IT IS! THE ELUSIVE SUBMARINE.&lt;/p&gt;
+
+&lt;pre&gt;--- You have successfully completed your mission. Wait for further instructions ---&lt;/pre&gt;
+
+&lt;h3 id=&quot;checkpoint-4-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 4 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;enjoy-the-view-from-the-starboard&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ENJOY THE VIEW FROM THE STARBOARD!&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+The procedure of filtering applications will begin in a couple of weeks after the applications start rolling in. If you’re shortlisted for the hackathon, you will receive an email stating the good news from Devfolio.&lt;/p&gt;
+
+&lt;p&gt;A few days before the hackathon, a Discord server will be created, where you and the other shortlisted participants will be added. Here is where the fun starts - workshops, talks from eminent industry experts, and other fascinating events. During these interactions, participants who have registered individually would be required to team up with other individual registrants.&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-5-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 5 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;date-27th-february-2021&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;DATE: 27TH FEBRUARY 2021&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-hackverse-20-submarine-is-loaded-and-ready-to-explore-the-unseen&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;THE HACKVERSE 2.0 SUBMARINE IS LOADED AND READY TO EXPLORE THE UNSEEN...&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+You and your team will battle it out with the other teams in a race to create the most unique hack. Leaders in the industry will be among those present to judge each team’s submission. Submissions will be open to the community, for promoting the ideas of impartiality and fairness.&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-6-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 6 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;date-28th-february-2021&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;DATE: 28TH FEBRUARY 2021&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;and-thus-the-last-unexplored-frontier-on-earth-was-conquered&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;..AND THUS, THE LAST UNEXPLORED FRONTIER ON EARTH WAS CONQUERED.&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Results will be announced a few days after the hackathon, followed by the Prize distribution ceremony and Hackerman felicitation.&lt;/p&gt;
+
+&lt;p&gt;Uncovering the secrets of the deep sea is no small task, and we hope that you will persevere until the end. Never stop dreaming; never stop exploring!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IT’S TIME TO RISE TO THE SURFACE.&lt;/strong&gt;&lt;/p&gt;</content><author><name>[&quot;kriti&quot;, &quot;manas&quot;]</name></author><category term="hackverse2.0" /><summary type="html">You have opened this message.</summary></entry><entry><title type="html">HackVerse’20: Behind The Scenes</title><link href="/blog/behind-the-scenes" rel="alternate" type="text/html" title="HackVerse’20: Behind The Scenes" /><published>2020-12-17T11:30:00+00:00</published><updated>2020-12-17T11:30:00+00:00</updated><id>/blog/behind-the-scenes</id><content type="html" xml:base="/blog/behind-the-scenes">&lt;p&gt;HackVerse’20, the first edition of HackVerse (January 25-26, 2020) was the first in many regards. It was the first formal hackathon conducted by NITK Surathkal, and also the first to draw such a wide range of students from all across the nation.&lt;/p&gt;
+
+&lt;p&gt;With over 2,400+ applicants for the one-day hackathon, the HackVerse organizing team, filled with eager and passionate students, was prepped and primed to welcome all the participants, judges, speakers, and guests and make them feel at home.&lt;/p&gt;
+
+&lt;p&gt;The event involved keynotes and workshops by executives from renowned companies such as DigitalOcean, Elastic, Wells Fargo, as well as from startups like Devfolio. The hackathon offered cash prizes of over Rs 1.8 lakh to the top three teams, and other exciting rewards and prizes worth Rs 85 lakh to participants.&lt;/p&gt;
+
+&lt;p&gt;Now, instead of filling this article with paragraphs upon paragraphs of blandness, we shall explore and scout another way to get a glimpse into HackVerse’20. Let us hear from some of the people who helped make the largest student-run hackathon in India, HackVerse’20, come into existence.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-the-inspiration-behind-hackverse&quot;&gt;What was the inspiration behind HackVerse?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “NITK didn’t have any hackathon. The ones that were conducted were on a small scale, and thus a lot of students in NITK didn’t have any experience of how amazing and impactful hackathons could be. We wanted to change this. We also wanted to help the hacker community grow. More number of organized hackathons empowers the developer community.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Shreyas Shankar&lt;/em&gt;: “We wanted to start a college event on a national scale in the field of Computer Science, and what’s better than a hackathon where you can relax and code at the same time?”&lt;/p&gt;
+
+&lt;h2 id=&quot;the-planning-process&quot;&gt;The planning process…..?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Namrata Ladda&lt;/em&gt;: “It took almost two semesters to plan. Going through different articles and experiences and taking references from other hackathons helped.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sai Sushil&lt;/em&gt;: “The planning started at the college level initially. When we pitched it to the Dean (Students’ Welfare), his suggestion was to put together a nationwide hackathon.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “The planning process started in June 2019. We had a lot of meetings and discussions. It was complete synergy, with all the team members pitching in with inventive ideas and suggestions. We had attended various hackathons before and had a brief idea of what to do. We studied how some of the best hackathons in the world were organized and tried to incorporate those ideas in HackVerse. Our main focus was on hacker experience!”&lt;/p&gt;
+
+&lt;h2 id=&quot;expectations-and-hopes-from-hackverse20&quot;&gt;Expectations and hopes from HackVerse’20?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “We wanted HackVerse’20 to be phenomenal with a huge turnout. We especially wanted participants to have a good time and learn new things.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “Hackers coming to NITK and having a good time was my dream. I was hoping that they would network with other hackers and organizers, continue working on their idea after the hackathon and learn new and fascinating things. We wished to empower hackers through talks, networking, or building.”&lt;/p&gt;
+
+&lt;h2 id=&quot;the-moment-you-realized-that-what-you-had-built-was-coming-to-fruition&quot;&gt;The moment you realized that what you had built was coming to fruition…?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “The morning when participants started arriving for registration. It felt surreal when I thought about how a team of students had organised a nationwide hackathon.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Shreyas Shankar&lt;/em&gt;: “The moment we got to the mark we expected in sponsorship and became the hackathon with the highest number of registrations in India. I felt immense pride.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “The hackathon feedback! Reading the feedback from the judges, speakers, and hackers just blew my mind! Many of them pronounced that our hackathon was unique; there were things that they had never seen in all the previous hackathons that they had attended.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-kind-of-difficulties-did-you-face-in-organising-the-event&quot;&gt;What kind of difficulties did you face in organising the event?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Sai Sushil&lt;/em&gt;: “For me, the biggest obstacle was not being from a CS/IT background. Nonetheless, I learned a lot and was able to contribute with the help of my teammates.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “Every phase had its difficulties. From deciding the judges, selecting the participants to last-minute changes on the event day; they all seemed like insurmountable odds until we conquered them.”&lt;/p&gt;
+
+&lt;h2 id=&quot;something-new-that-you-learned-as-a-part-of-team-hackverse20&quot;&gt;Something new that you learned as a part of Team HackVerse’20?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “Marketing, building an event from scratch and organising it, team management and communication skills. We also learned how to take risks and overcome challenges by organising this hackathon.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adarsh Malapaka&lt;/em&gt;: “The saying ‘Too many cooks spoil the broth’ is true. Don’t let too many people be in charge of the same task. Establish a chain of command.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-the-best-part-of-the-event&quot;&gt;What was the best part of the event?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Pavan Vachhani&lt;/em&gt;: “The satisfaction and sense of achievement we felt after the successful completion of the event.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mehnaz Yunus&lt;/em&gt;: “Working with a great team and successfully pulling off an event of this scale.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Namrata Ladda&lt;/em&gt;: “Interacting with the participants, guests, and speakers were the best part.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “The mini-gaming arena. A lot of hackers loved it, there was always someone or the other playing there, and that made it worth all the effort we put in it.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adarsh Malapaka&lt;/em&gt;: “Being able to connect with different companies, participants, and other professionals during the event.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-in-your-opinion-made-hackverse20-a-success&quot;&gt;What, in your opinion, made HackVerse’20 a success?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Namrata Ladda&lt;/em&gt;: “The team’s desire to host the event in the best way possible, and the support received from the faculty advisors of HackVerse (Dr. Anand Kumar M, Dr. Sowmya Kamath, Dr. Suprabha K R), Diamond Jubilee Chairman (Dr. S. M. Murigendrappa Sir), Dean SW (Dr. Jagannath Nayak), Director (Prof. K Uma Maheshwar Rao), BoG Chairman (Dr. K Balaveera Reddy) and the whole of NITK Administration with all the help needed to set up the event truly made it possible.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sai Sushil&lt;/em&gt;: “Support and recognition from all over India. And the fact that we all worked day and night, contributing in any way we could.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adarsh Malapaka&lt;/em&gt;: “I believe that HackVerse’20 was a success because we made no compromise on the technical side of the event, despite the inauguration ceremony and webinars eating into the hacking time. Secondly, we took good care of our participants with the SPoCs (Student Point of Contact) and the PR (Public Relations) team doing a fantastic job of being approachable, proactive and making the participants feel comfortable.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “Teamwork, co-operation, delegating tasks, taking up responsibility, working hard, and not giving up at any point.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-advice-would-you-give-to-a-student-applying-for-hackverse&quot;&gt;What advice would you give to a student applying for HackVerse?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Akash&lt;/em&gt;: “Hackathons are an excellent opportunity to meet brilliant and tech-savvy people from all walks of life; build your profile as a hacker, and create something extraordinary that will improve lives. Don’t miss out on this opportunity.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Shreyas Shankar&lt;/em&gt;: “My advice would be to have a good number of open source contributions, high-quality and legitimate projects, a well-defined Readme on Github, previous hackathon experiences and a solid, innovative idea which appeals to the reviewer.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “Be genuine with your resume and the questions asked during the application.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-advice-would-you-give-to-someone-organising-an-event-like-hackverse&quot;&gt;What advice would you give to someone organising an event like HackVerse?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Adarsh Malapaka&lt;/em&gt;: “It might sound banal, but ‘where there’s a will, there’s a way’ is probably the most golden advice for organising an event, however big or small. Ensure that the team is firmly committed and excited about the prospect of having this event. If you want the pearl from the ocean, you can’t merely caress the waves and rush back to the sands of safety. You have to dive deep, being dynamic to potential threats.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mehnaz Yunus&lt;/em&gt;: “Be an early bird. Try to do everything ahead of time. Get good judges, confirm them as soon as possible. Set up good judging criteria and a plagiarism checking system, if possible. Develop a social media presence. Be prompt in responding to queries from participants and keep their data safe.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sai Sushil&lt;/em&gt;: “Push your boundaries, explore new possibilities and never stop making it better even when it seems good enough.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pavan&lt;/em&gt;: “Think thoroughly about the timeline of the event. Count even the smallest things.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “Do not panic. Just give it some time, come back and try again. And most importantly, organize your thoughts. Be clear about your goals.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;And that, folks, is how we made HackVerse.&lt;/p&gt;
+
+&lt;p&gt;Now that you’ve got an idea of how we did it, it’s time to spread the word. Nothing promotes growth like competition, and hackathons bring out the best in us, from our team building and management skills to ingenuity.&lt;/p&gt;
+
+&lt;p&gt;Startups regularly get developed in hackathons and wind up getting millions in funding and launch lucrative careers - Twitter is living proof. We deemed it our duty to provide that challenge for students, on the Diamond Jubilee Celebrations of NITK, to promote our hackathon as well as the coding culture of our campus.&lt;/p&gt;
+
+&lt;p&gt;That is how the story ends… or does it?&lt;/p&gt;</content><author><name>[&quot;shumbul&quot;, &quot;kriti&quot;, &quot;feyaz&quot;]</name></author><category term="hackverse" /><summary type="html">HackVerse’20, the first edition of HackVerse (January 25-26, 2020) was the first in many regards. It was the first formal hackathon conducted by NITK Surathkal, and also the first to draw such a wide range of students from all across the nation.</summary></entry><entry><title type="html">Under the Coding Hood Hackverse 2020</title><link href="/blog/under-the-coding-hood-hackverse-2020" rel="alternate" type="text/html" title="Under the Coding Hood Hackverse 2020" /><published>2020-02-02T01:00:00+00:00</published><updated>2020-02-02T01:00:00+00:00</updated><id>/blog/under-the-coding-hood-hackverse-2020</id><content type="html" xml:base="/blog/under-the-coding-hood-hackverse-2020">&lt;p&gt;At NIT-K, Surathkal on 25th and 26th January&lt;/p&gt;
+
+&lt;p&gt;Sometime in October, &lt;a href=&quot;https://medium.com/u/dca2c8e6c7fd&quot;&gt;Utkarsh Raj&lt;/a&gt; from CUSAT asks if I am interested to go for a hackathon listed on Devfolio called &lt;a href=&quot;hackverse&quot;&gt;HackVerse&lt;/a&gt;. This was a few weeks after &lt;a href=&quot;https://hackinout.co&quot;&gt;InOut Hackathon&lt;/a&gt; and I knew for a fact (from that experience) that Devfolio Hackathons are on a whole other spectrum level of awesomeness. So I agreed and together (along with his classmate Ravi Jyothi) we registered as &lt;em&gt;Team Fortitude&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our initial idea was to develop a chapter summarizer application to help students intake big volumes of textbook content in daily dosages thus gaining constant momentum. However, Utkarsh had gone for HackOff Hackathon at VIT, Vellore (another Devfolio Hackathon) and tried this idea — which was not quite well received as an existing solutions is doing quite well. Thus we continued brainstorming until we settled for the following idea (spoiler: We changed this idea during the hackathon):&lt;/p&gt;
+
+&lt;h3 id=&quot;idea-1&quot;&gt;Idea #1&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Most of us are clueless about the options we have at college to up skill oneself, the choices one has to make as a result and the effect it has in your long term plan of molding your career. Most of the times it results in a hit-and-trial situation where the lucky one’s find gold while most of the rest and filled with regret and confusion by the end of their time in college.&lt;/p&gt;
+
+  &lt;p&gt;So to provide means to understand the scope and the paths forward, I thought of developing &lt;a href=&quot;https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure&quot;&gt;‘Choose Your Own Adventure’&lt;/a&gt; game where the user plays a simulation where we ask questions and based on the choices they make, their points change and in the end of 4 years of simulation, we contrast and see which alumni best matches with the path she chose — and thus connect the two. If dissatisfied, the user can play the game again this time with different options and see what other endings you get.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We met up a week before at CUSAT to discuss about the same. I decided to use &lt;a href=&quot;https://twinery.org/&quot;&gt;Twine&lt;/a&gt; to design the story, Ravi said he will look into &lt;a href=&quot;https://flutter.dev/&quot;&gt;Flutter&lt;/a&gt; App Development for the front end, and Utkarsh said he will take care of the backend using &lt;a href=&quot;https://firebase.google.com/&quot;&gt;Firebase&lt;/a&gt;. However, that week went past quite fast and we all could not find the time to set up our systems suitably.&lt;/p&gt;
+
+&lt;h3 id=&quot;friday&quot;&gt;Friday&lt;/h3&gt;
+
+&lt;p&gt;I make it to Ernakulam South railway station. Ameen, Rindish and Afnan join in a while. We departed around 8.20 PM. Utkarsh and Ravi boarded from Aluva half an hour later. We discussed a while about the ideas to include in our product. After dinner, we went to sleep.&lt;/p&gt;
+
+&lt;h3 id=&quot;saturday&quot;&gt;Saturday&lt;/h3&gt;
+
+&lt;p&gt;Devdutt wakes me up at Suratkal. Apparently we reached 30 minutes early. Much to my surprise, Abhishek from CET is also there. Well, hackathon already looks promising.&lt;/p&gt;
+
+&lt;p&gt;We took two autos and reached the college by 5.45 AM. Nishant our point of contact was already at the front gate and in good spirits. We were escorted to our hostel where we freshened up and got some sleep. Around 8.30 AM we headed off to the venue — Lecture Complex Hall.&lt;/p&gt;
+
+&lt;p&gt;We got to meet the other folks from my college who also came for the hackathon. After breakfast, we chilled for a while until the opening ceremony.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The inaugural ceremony was spectacular. Notable folks from the industry shared their words of wisdom to the participants on how to be industry ready through hackathons and other competitions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Professor Reddy commended the organizing team for coming up with the name of &lt;em&gt;HackVerse&lt;/em&gt; for verse meant to condense a deep message in a simple manner — much as what this hackathon hopes to see in the projects to be built in the time to come. He explained how time is finite thus weekend hacks is a great way to maximize and learn.&lt;/li&gt;
+  &lt;li&gt;The CTO of Well Fargo explained how hackathons challenge participants to adopt and find potential of new technologies in a world of great uncertainty, high stakes and opportunity cost. He believes a much needed skill for the industry is to have people who are collaborative, creative and capable of delivering results under pressure. The success of your venture lies not merely in the proof concept but in finding its place in the real world market.&lt;/li&gt;
+  &lt;li&gt;Dr. Divakar, the director of Google Cloud India delivered a very intriguing speech that struck a chord with most students. He beleives that 3 buckets exists: (#1) Industry, (#2) Tech People, and (#3) Students. The industry is slow and fearful while students are fast and fearless. For students to transition in to Tech People profile means to work at a place that scales up like an enterprise and innovates like a startup. The industry focuses on User needs. He shared 3 critical principles: &amp;lt;#1&amp;gt; What got you here won’t get you there. You need to continuously be learning. &amp;lt;#2&amp;gt; Understand whether you are running or sprinting in this marathon of a journey we take in the world of tech. Patience is important. &amp;lt;#3&amp;gt; Seek knowledge, and money will follow. Find a purpose worth pursuing and people will want your expertise to bring out the best results.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Extraordinary people are ordinary people with extra thinking&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/under-coding-hood/lhcc.JPG&quot; alt=&quot;LHC-C Seminar Hall&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the inaugural ceremony, the following tech talk sessions were there:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Aravind from Elastic Search&lt;/strong&gt; explained how search plays a critical role in multiple sectors. The Elastic stack includes Kibana, Elastic Search, Beats, and Logstash. To learn more about it, click &lt;a href=&quot;http://ela.st/search&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://ela.st/community-trial&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Containers by Saurabh Gupta&lt;/strong&gt;: The speaker from Digital Ocean explained the transition from Devs to Ops as two units to a combined entity called DevOps to handle Deployment fails. Implementing is not the same as evaluating, especially when a community is lacking. We must give time for tech to mature. Startups are the first adopters but MNCs wait to see results.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The ones who climb up the ladder are those who pick up new skills very quick and go beyond the comfort zone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Technologists in the Financial Sector, by Bharat, CTO, Wells Fargo&lt;/strong&gt;: He explained how Behavioral Banking takes different approaches for different people. It takes a risk model to assess the potential failure cases in transactions. He went on to talk about &lt;a href=&quot;https://www.investopedia.com/terms/h/high-frequency-trading.asp&quot;&gt;High Frequency Trading&lt;/a&gt; where nanosecond variations play a big factor in the success of a trade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Work in an area that excites you. Put your best in your work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During these talks, I was introduced to a new concept: &lt;strong&gt;Developer Experience&lt;/strong&gt;! DX is for developers what UX is for Users :)&lt;/p&gt;
+
+&lt;p&gt;I skipped taking notes for a few talk sessions so apologies for the incomplete list. The talks concluded by 3.45 PM I believe. The organizers informed us of the judging criteria factors:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Originality&lt;/li&gt;
+  &lt;li&gt;Business Opportunity/ Social relevance&lt;/li&gt;
+  &lt;li&gt;Innovation&lt;/li&gt;
+  &lt;li&gt;Novelty&lt;/li&gt;
+  &lt;li&gt;Time to market&lt;/li&gt;
+  &lt;li&gt;Potential&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Personally, our idea may seem new, yet it won’t stand out when compared to the amazing machine learning based projects that other teams built. Nevertheless, we were here to have a start, and that I am certain we will achieve.&lt;/p&gt;
+
+&lt;p&gt;Hackathon started shortly, and we moved to classroom to set up our device.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We had a discussion about the idea of UniSim but soon realized that it is not good enough considering the fact that it is a one-time-use app. We started to stop seeing value in it. Instead, when I spoke about the idea of &lt;em&gt;Cirgle&lt;/em&gt; by Gopi Chetan, Utkarsh sounded excited and thus we decided to pivot at 10 PM.&lt;/p&gt;
+
+&lt;h3 id=&quot;idea-2&quot;&gt;Idea #2&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is no one good social network for programmers that encourages in person meetings. Sure, Reddit forums, facebook groups, DevRant try to achieve this yet we found a few challenges that must be tackled first. In our idea, we imagined to use the 6 stage model to set barriers, use geographical location to provide city based news feeds on what projects others are working and connect them on the basis of experience level as well as the tech stack.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I agree the idea lacks mention-worthy originality but we could see the potential it held if implemented right in the real world.&lt;/p&gt;
+
+&lt;p&gt;Ravi and Utkarsh tried to work on the Firebase backend while I tried to learn flutter. Setting it up took a couple of hours itself. They considered making PWA (Progressive Web App) when a flutter app seemed unrealistic within the time frame. Finally we tried to get a basic website done using HTML and CSS.&lt;/p&gt;
+
+&lt;p&gt;I took break quite often to play chess and talk to others. I had a lot of fun learning concepts from Arun, a student from CET who has a very deep manner of thinking. Yet at times I felt lonely as I was unable to get the work done in time. Thankfully, the volunteers offered refreshments and I played quite a bit of music to bridge the gaps.&lt;/p&gt;
+
+&lt;p&gt;I slept for 3 hours from 4 AM to 7 AM. The other two slept very little to ensure we had results to show. I commend their spirit.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fspeakerdeck.com%2Fplayer%2Fa30c278da3df4c9a93dd2678c36220c0&amp;amp;display_name=Speaker+Deck&amp;amp;url=https%3A%2F%2Fspeakerdeck.com%2Fjohnover_board%2Fcirgle-hackverse-2020&amp;amp;image=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2Fa30c278da3df4c9a93dd2678c36220c0%2Fslide_0.jpg%3F596010&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;amp;type=text%2Fhtml&amp;amp;schema=speakerdeck&quot; allowfullscreen=&quot;&quot; title=&quot;Cirgle | Hackverse 2020&quot; class=&quot;cp t u jb ak&quot; scrolling=&quot;auto&quot; width=&quot;710&quot; height=&quot;399&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sunday&quot;&gt;Sunday&lt;/h3&gt;
+
+&lt;p&gt;Being the republic day, we were taken to witness the march past in the campus by the NSS and students. It was really well done but unfortunately I did not have my phone around to take photographs.&lt;/p&gt;
+
+&lt;p&gt;Back at the venue, we tinkered bit by bit. These are the screenshots of what we created in the end.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/under-coding-hood/cirgle-1.JPG&quot; alt=&quot;Cirgle&quot; /&gt;
+&lt;img src=&quot;./assets/images/under-coding-hood/cirgle-2.JPG&quot; alt=&quot;Cirgle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Denver from Devfolio reviewed our work. While he did not seem impressed, he did encourage us to continue working on it in the time to come.&lt;/p&gt;
+
+&lt;p&gt;Here are a few pictures from the event&amp;gt; &lt;a href=&quot;https://photos.app.goo.gl/ZUnBBBr9nvJESYAa8&quot;&gt;Click here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After dinner, we took a train to Manglore and then waited till 3 AM for the train. Had some quality time with friends.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/under-coding-hood/station.JPG&quot; alt=&quot;Station&quot; /&gt;
+&lt;img src=&quot;./assets/images/under-coding-hood/judging.jpeg&quot; alt=&quot;Judging&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally published at &lt;a href=&quot;https://medium.com/@joelvzach/under-the-coding-hood-hackverse-2020-aab616200a06&quot;&gt;https://medium.com/@joelvzach/under-the-coding-hood-hackverse-2020-aab616200a06&lt;/a&gt; on February 2, 2020&lt;/em&gt;&lt;/p&gt;</content><author><name>[&quot;joel&quot;]</name></author><category term="hackathons" /><summary type="html">At NIT-K, Surathkal on 25th and 26th January</summary></entry><entry><title type="html">HackVerse’20 API Prizes and Hacks!</title><link href="/blog/hackverse20-hack-ideas" rel="alternate" type="text/html" title="HackVerse'20 API Prizes and Hacks!" /><published>2020-01-19T10:00:00+00:00</published><updated>2020-01-19T10:00:00+00:00</updated><id>/blog/hackverse20-hack-ideas</id><content type="html" xml:base="/blog/hackverse20-hack-ideas">&lt;p&gt;All set for the Hackathon but still running short of ideas, we have something in store for you!&lt;/p&gt;
+
+&lt;p&gt;We present to you, API prizes from our sponsors Matic and Zulip. Build on top of these to win exciting prizes! You can find more details of their prizes and guidelines in the following links:&lt;/p&gt;
+
+&lt;ul style=&quot;list-style-type: circle;&quot;&gt;
+    &lt;li&gt; &lt;a href=&quot;https://paper.dropbox.com/doc/Matic-Ethereum-Track-Prize-FToXnL0x0THdKv7C3PaT9&quot;&gt;Matic Etherium API Prize&lt;/a&gt; &lt;/li&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Rs.20000 to best hack built on Ethereum &lt;/li&gt;
+        &lt;li&gt;Rs. 25000 if Matic is also used along with Ethereum &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;li&gt; &lt;a href=&quot;https://paper.dropbox.com/doc/Zulip-Bot-Prize-vZuqxEnsfhEReqKucdlfB&quot;&gt;Zulip API Prize&lt;/a&gt; &lt;/li&gt;
+    &lt;ul&gt;
+        &lt;li&gt;$100 for the best bot built on top of Zulip&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our team has compiled a variety of ideas, and it might as well be the key to you winning the hackathon. The ideas metiones below are meant to be a source of inspiration and is open to interpretation and implementation. Feel free to add in your own unique ideas and modifications to them.&lt;/p&gt;
+
+&lt;h3 id=&quot;blockchain&quot;&gt;Blockchain&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Elections are under threat from malicious actors that can infiltrate voting machines, alter voter registration databases, coordinated disinformation campaigns, and more. How can you use Blockchain to secure the process?&lt;/li&gt;
+  &lt;li&gt;Intellectual Property : with Blockchain projects creative individuals can have the opportunity to share their content online and be able to prove that they are indeed the creators of said content and hold all intellectual property rights regardless of where it ends up, and everyone else would be aware of this too.&lt;/li&gt;
+  &lt;li&gt;Charitable organizations are obviously a good thing, especially when they actually use their funds for the intended purposes, which is typically to help people. Unfortunately, that is not always the case, and there have been situations in which charitable organizations have been labeled as corrupt and have been involved in unethical activities. Blockchain technology can help remedy this.&lt;/li&gt;
+  &lt;li&gt;Digital IDs : More than 1 billion people worldwide face identity challenges. Creating digital IDs which would give users a way to control their digital identities. Medical recordkeeping: The good news is the medical sector has already been moving away from paper for recordkeeping purposes for years.&lt;/li&gt;
+  &lt;li&gt;However, blockchain offers even more safety and convenience. In addition to storing patient records, the patient, who possesses the key to access these digital records, would be in control of who gains access to that data.&lt;/li&gt;
+  &lt;li&gt;Weapons tracking : One of the hot-button topics on any news network at the moment is gun control and/or weapons accountability. Blockchain could create a transparent and unchanging registry network that allows law enforcement and the federal government to track gun or weapon ownership, as well as keep a record of weapons sold privately.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;aiml&quot;&gt;AI/ML&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A system which can do a check-up for emergencies and give short term advice.&lt;/li&gt;
+  &lt;li&gt;Classifying articles or news stories as potentially misleading or not.&lt;/li&gt;
+  &lt;li&gt;Agriculture has transformed with the advent of irrigation, but irrigation itself requires a certain level of supervision. Develop Irrigation systems which self regulate according to weather patterns.&lt;/li&gt;
+  &lt;li&gt;Depression affects about 20% of adolescents by the time they become adults. Develop Interfaces or chatbots that can help counsel people with issues like depression or anxiety issues and suicidal tendencies.&lt;/li&gt;
+  &lt;li&gt;Personal Health Assistant : The AI in your phone will figure out exactly when and how to wake you up given your health, sleep patterns and time constraints. It will also look into your eating habits and suggest you restaurants and dishes for keeping you in track.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;algorithms&quot;&gt;Algorithms&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can you devise new algorithms to improve the control of vehicular traffic in crowded cities?&lt;/li&gt;
+  &lt;li&gt;Bitcoin – last year it was claimed that the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Come up with an implementation which solves the energy problem with your own Consensus algorithm.&lt;/li&gt;
+  &lt;li&gt;An app for taxi drivers- which will help them to identify which locations to concentrate and go around in loops in order to get maximum customers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fin-tech&quot;&gt;Fin-Tech&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Digital Banking:  Enable after-hours banking services with an interactive interface using chatbots and video capabilities. Leveraging on technology to build personal teller service for banking transactions or professional banking consultations for customers after business hours as well.&lt;/li&gt;
+  &lt;li&gt;Alternative Credit Rating: Access to finance &amp;amp; banking facilities remains limited for the unbanked population &amp;amp; businesses in remote areas. A financial/banking app could potentially bridge this gap by sourcing information that can contribute to an alternative credit rating, and subsequently allow other institutions to leverage on it.&lt;/li&gt;
+  &lt;li&gt;Cashback @ Merchants: Finding an ATM can be a challenge and sometimes they may not be in service. Design a solution that allows the withdrawal and deposit of cash from merchants for easier access to cash.&lt;/li&gt;
+  &lt;li&gt;Invoice financing: Invoice duplication and fraud cases in invoice financing can be mitigated by creating a database leveraging on a unique ID for each invoice/document.&lt;/li&gt;
+  &lt;li&gt;Learning Interface for All: Understanding banking instruments and financial systems remains a challenge in Tier 2-3 and rural areas due to language and smartphone usage barriers. Develop a digital solution for awareness generation for this segment to be able to understand and access relevant financial instruments.&lt;/li&gt;
+  &lt;li&gt;Financial and Wealth Management: Wealth Management is resorted to only by the Upper-Class Indians who have significant savings to invest in Alternative Funds. Financial Planning and investment of savings by the middle class and youth is very low. Develop a solution to increase middle class and younger generation participation in Financial Markets to leverage investment of savings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;future-mobility&quot;&gt;Future Mobility&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Study of flow dynamics of people within a city to improve public transport infrastructure&lt;/li&gt;
+  &lt;li&gt;Monitoring the driver to keep them alert at all times.&lt;/li&gt;
+  &lt;li&gt;Detecting unavoidable Frontal, Rear end, T-bone, and other types of collisions to activate preventive measures.&lt;/li&gt;
+  &lt;li&gt;mycardoeswhat.org datasets as a source of inspiration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;computer-vision&quot;&gt;Computer Vision&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Written documents to pdf converter application.&lt;/li&gt;
+  &lt;li&gt;Differentiating between recyclable and nonrecyclable was which can be used by robots for automating cleaning&lt;/li&gt;
+  &lt;li&gt;Developing systems that can detect crimes happening from live CCTV feed.&lt;/li&gt;
+  &lt;li&gt;Play from sheet music.&lt;/li&gt;
+  &lt;li&gt;Class attendance and attention monitoring.&lt;/li&gt;
+  &lt;li&gt;Bill splitting with the product and person identification from photos(user need not manually mention items bought by individuals)&lt;/li&gt;
+  &lt;li&gt;Use satellite images to count number of trees and track deforestation and alert authorities.&lt;/li&gt;
+  &lt;li&gt;Smart projection system with presenter detection: Use a camera to detect if the presenter is covering the projection. Use this for assisting the presenter.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ar-vr&quot;&gt;AR-VR&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developing Virtual reality Technology which can help children interact and help them in studying different subjects.&lt;/li&gt;
+  &lt;li&gt;Augmented reality models with labeling.&lt;/li&gt;
+  &lt;li&gt;Making Technical Documentation using AR.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;open-innovation&quot;&gt;Open Innovation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Product Costing is an important procedure of business, which helps them to approximate the cost of making a product, Design a system to simplify the same.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Incorrect diagnosis in hospitals often leads to tragic deaths, due to wide information gap between doctors and patients, which makes the patients susceptible to whatever the doctor recommends. How can you help overcome this rising problem?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rural medical care- Medical care in the villages is barely sufficient and lacking in a lot of facilities, which leads to an unfair amount of deaths, how can this be solved?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For other good inspiration, we suggest &lt;a href=&quot;https://gist.github.com/tsaqib/9a8ded18603881b76a8f&quot;&gt;this page.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mlsdev.com/blog/top-10-problems-that-blockchain-technology-solves&quot;&gt;https://mlsdev.com/blog/top-10-problems-that-blockchain-technology-solves&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fool.com/investing/2018/04/11/20-real-world-uses-for-blockchain-technology.aspx&quot;&gt;https://www.fool.com/investing/2018/04/11/20-real-world-uses-for-blockchain-technology.aspx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/What-real-life-problems-will-be-solved-with-Artificial-Intelligence-AI-within-the-next-10-years-i-e-by-2028&quot;&gt;https://www.quora.com/What-real-life-problems-will-be-solved-with-Artificial-Intelligence-AI-within-the-next-10-years-i-e-by-2028&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/bernardmarr/2018/02/19/the-5-big-problems-with-blockchain-everyone-should-be-aware-of/#71cbc3fa1670&quot;&gt;https://www.forbes.com/sites/bernardmarr/2018/02/19/the-5-big-problems-with-blockchain-everyone-should-be-aware-of/#71cbc3fa1670&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/tsaqib/9a8ded18603881b76a8f&quot;&gt;https://gist.github.com/tsaqib/9a8ded18603881b76a8f&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iotworldtoday.com/2016/06/29/10-killer-applications-iot-and-augmented-reality/&quot;&gt;https://www.iotworldtoday.com/2016/06/29/10-killer-applications-iot-and-augmented-reality/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>[&quot;vybhav&quot;, &quot;rahul&quot;, &quot;shubham&quot;]</name></author><category term="hackverse" /><summary type="html">All set for the Hackathon but still running short of ideas, we have something in store for you!</summary></entry><entry><title type="html">Why Attend Hackathons</title><link href="/blog/why-attend-hackathons" rel="alternate" type="text/html" title="Why Attend Hackathons" /><published>2019-12-13T01:00:00+00:00</published><updated>2019-12-13T01:00:00+00:00</updated><id>/blog/why-attend-hackathons</id><content type="html" xml:base="/blog/why-attend-hackathons">&lt;p&gt;Learn more about why you should attend hackathons and what makes HackVerse special!&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-a-hackathon&quot;&gt;What is a hackathon?&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A hackathon, a hacker neologism, is an event when programmers meet to do collaborative computer programming.” - &lt;a href=&quot;http://en.wikipedia.org/wiki/Hackathon&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hackathons are awesome places to build solutions to real-world problems and express the creativity through technology within a short period of time, with like-minded enthusiastic people.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-should-you-attend-hackathons&quot;&gt;Why should you attend hackathons?&lt;/h1&gt;
+
+&lt;h3 id=&quot;create-things-that-matter&quot;&gt;Create things that matter&lt;/h3&gt;
+
+&lt;p&gt;Did you know that “GroupMe” a group messaging app acquired by Skype for over $50 million was built during a hackathon? Or the Facebook “Like” button &amp;amp; Facebook chat being built in an internal company hackathon?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/why-attend/groupme-fb.png&quot; alt=&quot;GroupMe &amp;amp; Facebook&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There have been countless similar examples that show that hackathons are serious events that can potentially have a long-lasting impact on our day to day lives. And we expect each and everyone coming here to aim for a similar impact, nothing less!&lt;/p&gt;
+
+&lt;h3 id=&quot;acquire-art-of-delivery&quot;&gt;Acquire Art of Delivery&lt;/h3&gt;
+
+&lt;p&gt;Remember Yahoo Answers before the era of Quora?  Or pets.com?
+In the real world, the delivery and presentation of a product is equally important if not more important than the code itself. However, this is not something that is ever taught to us. Hackathons will teach you the importance of this art, and you surely do not want to miss out on that, do you?&lt;/p&gt;
+
+&lt;h3 id=&quot;you-win-or-you-learn&quot;&gt;You Win or You Learn&lt;/h3&gt;
+
+&lt;p&gt;You can interact with awesome programmers from various backgrounds and observe their ideas, thought process and approach. It is a fantastic opportunity to broaden your mind and learn a lot, be it the state-of-the-art technology or the newest libraries in the field of your choice!&lt;/p&gt;
+
+&lt;h1 id=&quot;why-attend-hackverse&quot;&gt;Why attend HackVerse?&lt;/h1&gt;
+
+&lt;p&gt;Hackathons are really exciting places to be, and HackVerse aims to take it a whole new level!&lt;/p&gt;
+
+&lt;p&gt;We’re really excited to be a part of this hackathon! And you should be too! We’ve got a great team, great sponsors, and lots of great ideas bubbling. To make sure you fully enjoy yourself in this hackathon and make the most of the occasion, here are some things you might want to keep in mind.&lt;/p&gt;
+
+&lt;h3 id=&quot;most-importantly-to-have-fun&quot;&gt;Most importantly to have FUN&lt;/h3&gt;
+
+&lt;p&gt;Be it the adrenaline rush during the last 15 minutes of building, meeting like-minded geeks, NITK’s private beach, some cultural events, some really fun activities at night or the lush greenery spread across 300 acres, you will have something to enjoy every moment here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/nitk/aerial-kite-fest.jpg&quot; alt=&quot;NITK Beach&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/why-attend/bd.jpg&quot; alt=&quot;Cultural Event&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;workshops&quot;&gt;Workshops&lt;/h3&gt;
+
+&lt;p&gt;HackVerse will be having some workshops from the executives from industry and those surely will be a boost to your knowledge. It’ll help you get real-world knowledge and experience.&lt;/p&gt;
+
+&lt;h3 id=&quot;boost-your-resume&quot;&gt;Boost your Resume&lt;/h3&gt;
+
+&lt;p&gt;Most companies and startups prefer enthusiastic students who have built innovative solutions using the latest technologies to solve real-world problems. The prototype you exhibit here, could potentially boost your resume and enable you to stand apart from the crowd. Who knows what your idea can become? Maybe you’ll build the next “GroupMe”, Maybe you might get hired?&lt;/p&gt;
+
+&lt;h3 id=&quot;network-network-and-network&quot;&gt;Network, Network, and Network&lt;/h3&gt;
+
+&lt;p&gt;Hackathons are a great place to meet like-minded people and exchange ideas, insights and collaborate. HackVerse has introduced a trademark event called &lt;strong&gt;Meet-and-Greet&lt;/strong&gt;. This session will be completely dedicated to meeting other participants and mentors. You can meet new people, make new friends, get to listen to different perspectives, clarify your doubts and get guidance from mentors. In short, this session is aimed to help you build a strong network with people across all regions, fields, and experience, which we believe will help you in the long run, even after the hackathon is over.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/why-attend/networking.png&quot; alt=&quot;Networking&quot; height=&quot;70%&quot; width=&quot;70%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prizes&quot;&gt;Prizes&lt;/h3&gt;
+
+&lt;p&gt;After all of this, Prizes are the last thing one would look for. Prizes although may seem like great motivators but they are ineffective at building communities and creating long-term enegagement. If a hackathon prize is too large, people who hack because of passion will likely be turned off. Focusing too much on prizes can make those who are there out of passion or to learn something new feel like their experience is not valued by their peers or the event organizers.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You get to be with people who are passionate about tech just like you or more than you for 24 hours. That is the best place you wanna be (like heaven).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We assure there are huge prizes in terms of cash and the swags for the winners and everyone who attends, but we don’t recommend attending HackVerse or any other hackathon solely for prizes.&lt;/p&gt;
+
+&lt;p&gt;The ethos of HackVerse is thus to bring the experience of hackathon to you, give you a platform where you can  learn and excel.&lt;/p&gt;
+
+&lt;p&gt;So what are you waiting for! Unleash your skills and show us that you deserve to be here. Register here: &lt;a href=&quot;https://hackverse.nitk.ac.in&quot;&gt;https://hackverse.nitk.ac.in&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Join our Telegram Group to meet other like minded hackers: &lt;a href=&quot;https://t.me/hackverse&quot;&gt;https://t.me/hackverse&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;references--credits&quot;&gt;References &amp;amp; Credits&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/hackathons-anonymous/wtf-is-a-hackathon-92668579601&quot;&gt;WTF is a hackathon?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000&quot;&gt;Hackathons are for Beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014&quot;&gt;Are Hackathon Prizes The Worst Thing Since Moldy Sliced Bread?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Picture Credits: &lt;a href=&quot;https://appmech.nitk.ac.in/faculty/pruthviraj-u&quot;&gt;Prof. Pruthiviraj Umesh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>[&quot;shravan&quot;]</name></author><category term="hackverse" /><summary type="html">Learn more about why you should attend hackathons and what makes HackVerse special!</summary></entry><entry><title type="html">Tips for Outstation Participants</title><link href="/blog/tips-for-outstation-participants" rel="alternate" type="text/html" title="Tips for Outstation Participants" /><published>2019-11-23T01:00:00+00:00</published><updated>2019-11-23T01:00:00+00:00</updated><id>/blog/tips-for-outstation-participants</id><content type="html" xml:base="/blog/tips-for-outstation-participants">&lt;p&gt;Congratulations on getting selected for HackVerse ‘20!&lt;/p&gt;
+
+&lt;p&gt;We are super excited to host you at our campus, NITK, Surathkal and we look forward to meeting you and see what you create!&lt;/p&gt;
+
+&lt;p&gt;This blog is aimed to give you a few tips and suggestions so that your journey to HackVerse, NITK, Surathkal and stay here is as hassle free as possible.&lt;/p&gt;
+
+&lt;p&gt;Before we proceed ahead, take a look at the beautiful campus you’re going to visit.&lt;/p&gt;
+
+&lt;p&gt;NITKians proudly flaunt about being the only college in India to have a private beach, and it’s your chance to spend a weekend coding, and working on an idea nearby the beach and enjoy the other programs planned.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/nitk/aerial-beach.jpg&quot; alt=&quot;NITK, Surathkal Beach&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/nitk/aerial-kite-fest.jpg&quot; alt=&quot;NITK, Surathkal Beach&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;accomodation&quot;&gt;Accomodation&lt;/h2&gt;
+
+&lt;p&gt;All outstation participants will be provided accommodation at NITK, Surathkal for all the 3 days - 24th to 26th of January. Matresses will be provided for a comfortable sleep.&lt;/p&gt;
+
+&lt;h2 id=&quot;reaching-nitk&quot;&gt;Reaching NITK&lt;/h2&gt;
+
+&lt;p&gt;NITK, Surathkal is a lush green campus on the shores of the Arabian sea, nourished and blessed by the monsoon showers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/nitk/aerial-nitk.jpg&quot; alt=&quot;Green Aerial NITK Surathkal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are many options to travel to the campus.&lt;/p&gt;
+
+&lt;h3 id=&quot;travelling-through-train&quot;&gt;Travelling Through Train&lt;/h3&gt;
+
+&lt;p&gt;If you plan to travel to NITK, Surathkal by train, following are the primary railway stations nearby the campus.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mangalore Junction (Station Code: MAJN)&lt;/li&gt;
+  &lt;li&gt;Mangalore Central (Station Code: MAQ)&lt;/li&gt;
+  &lt;li&gt;Surathkal (Station Code: SL)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are frequent local bus services from these stations to reach NITK, Surathkal which provide services at a very afforadable cost - less than Rs. 30. Participants are suggested to take a local bus from the railway station. Local Bus services start as early as 6 am in the morning, and are available at every 5-10 mins interval.&lt;/p&gt;
+
+&lt;h3 id=&quot;travelling-through-flight&quot;&gt;Travelling Through Flight&lt;/h3&gt;
+
+&lt;p&gt;If you plan to travel to NITK, Surathkal by a flight, the nearest airport to NITK, Surathkal is the Mangalore Airport at a distance of around 20 kms. Taxi services are available from the airport to reach NITK, Surathkal. They usually take 30 mins maximum to reach the campus.&lt;/p&gt;
+
+&lt;h3 id=&quot;travelling-through-bus&quot;&gt;Travelling Through Bus&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For participants in and around Mangalore, Udupi or Manipal, there are plenty of local buses which ply very frequently from the main gate. You can reach NITK very easily using these services.&lt;/li&gt;
+  &lt;li&gt;For participants from Bangalore and Mysore, there a plenty of bus services available (SRS, Orange, VRL, Durgamba, Pragathi etc). These buses generally stop right in front of NITK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope this helps you figure out the logistics of getting to NITK, Surathkal. If you have any further doubts, please join our Telegram Group, one of the organizers will help you out. Link: &lt;a href=&quot;https://t.me/hackverse&quot;&gt;https://t.me/hackverse&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We can’t wait to meet you at the hacking arena and see what you create!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/nitk/lhcc.jpg&quot; alt=&quot;LHC-C NITK Surathkal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Checkout some amazing clicks of our campus:-&lt;/p&gt;
+
+&lt;div class=&quot;carousel__holder&quot;&gt;
+    &lt;div class=&quot;carousel&quot;&gt;
+        
+          &lt;input class=&quot;carousel__activator&quot; type=&quot;radio&quot; name=&quot;carousel&quot; id=&quot;a&quot; checked=&quot;checked&quot; /&gt;
+        
+          &lt;input class=&quot;carousel__activator&quot; type=&quot;radio&quot; name=&quot;carousel&quot; id=&quot;b&quot; /&gt;
+        
+          &lt;input class=&quot;carousel__activator&quot; type=&quot;radio&quot; name=&quot;carousel&quot; id=&quot;c&quot; /&gt;
+        
+          &lt;input class=&quot;carousel__activator&quot; type=&quot;radio&quot; name=&quot;carousel&quot; id=&quot;d&quot; /&gt;
+        
+          &lt;input class=&quot;carousel__activator&quot; type=&quot;radio&quot; name=&quot;carousel&quot; id=&quot;e&quot; /&gt;
+        
+        
+          
+          
+          
+          
+          &lt;div class=&quot;carousel__controls&quot;&gt;
+              &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;e&quot;&gt;&lt;/label&gt;
+              &lt;label class=&quot;carousel__control carousel__control--forward&quot; for=&quot;b&quot;&gt;&lt;/label&gt;
+          &lt;/div&gt;
+        
+          
+          
+          
+          
+          &lt;div class=&quot;carousel__controls&quot;&gt;
+              &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;a&quot;&gt;&lt;/label&gt;
+              &lt;label class=&quot;carousel__control carousel__control--forward&quot; for=&quot;c&quot;&gt;&lt;/label&gt;
+          &lt;/div&gt;
+        
+          
+          
+          
+          
+          &lt;div class=&quot;carousel__controls&quot;&gt;
+              &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;b&quot;&gt;&lt;/label&gt;
+              &lt;label class=&quot;carousel__control carousel__control--forward&quot; for=&quot;d&quot;&gt;&lt;/label&gt;
+          &lt;/div&gt;
+        
+          
+          
+          
+          
+          &lt;div class=&quot;carousel__controls&quot;&gt;
+              &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;c&quot;&gt;&lt;/label&gt;
+              &lt;label class=&quot;carousel__control carousel__control--forward&quot; for=&quot;e&quot;&gt;&lt;/label&gt;
+          &lt;/div&gt;
+        
+          
+          
+          
+          
+          &lt;div class=&quot;carousel__controls&quot;&gt;
+              &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;d&quot;&gt;&lt;/label&gt;
+              &lt;label class=&quot;carousel__control carousel__control--forward&quot; for=&quot;a&quot;&gt;&lt;/label&gt;
+          &lt;/div&gt;
+        
+        &lt;div class=&quot;carousel__track&quot;&gt;
+          &lt;ul&gt;
+            
+            &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/aerial-campus.jpg');&quot;&gt;&lt;/li&gt;
+            
+            &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/aerial-cse.jpg');&quot;&gt;&lt;/li&gt;
+            
+            &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/kite-fest.jpg');&quot;&gt;&lt;/li&gt;
+            
+            &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/entrance.png');&quot;&gt;&lt;/li&gt;
+            
+            &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/aerial-mech.jpg');&quot;&gt;&lt;/li&gt;
+            
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;carousel__indicators&quot;&gt;
+            
+              &lt;label class=&quot;carousel__indicator&quot; for=&quot;a&quot;&gt;&lt;/label&gt;
+            
+              &lt;label class=&quot;carousel__indicator&quot; for=&quot;b&quot;&gt;&lt;/label&gt;
+            
+              &lt;label class=&quot;carousel__indicator&quot; for=&quot;c&quot;&gt;&lt;/label&gt;
+            
+              &lt;label class=&quot;carousel__indicator&quot; for=&quot;d&quot;&gt;&lt;/label&gt;
+            
+              &lt;label class=&quot;carousel__indicator&quot; for=&quot;e&quot;&gt;&lt;/label&gt;
+            
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+.carousel__holder {width: 100%; position: relative; padding-bottom: 50%; margin: 1rem 0 1rem;}
+.carousel {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  position: absolute;
+  padding: 0;
+}
+.carousel__controls,
+.carousel__activator {
+  display: none;
+}
+
+.carousel__activator:nth-of-type(1):checked ~ .carousel__track {
+  -webkit-transform: translateX(-000%);
+          transform: translateX(-000%);
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__slide:nth-of-type(1) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__controls:nth-of-type(1) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(1):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(1) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(2):checked ~ .carousel__track {
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+}
+.carousel__activator:nth-of-type(2):checked ~ .carousel__slide:nth-of-type(2) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(2):checked ~ .carousel__controls:nth-of-type(2) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(2):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(2) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(3):checked ~ .carousel__track {
+  -webkit-transform: translateX(-200%);
+          transform: translateX(-200%);
+}
+.carousel__activator:nth-of-type(3):checked ~ .carousel__slide:nth-of-type(3) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(3):checked ~ .carousel__controls:nth-of-type(3) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(3):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(3) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(4):checked ~ .carousel__track {
+  -webkit-transform: translateX(-300%);
+          transform: translateX(-300%);
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__slide:nth-of-type(4) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__controls:nth-of-type(4) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(4):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(4) {
+  opacity: 1;
+}
+
+.carousel__activator:nth-of-type(5):checked ~ .carousel__track {
+  -webkit-transform: translateX(-400%);
+          transform: translateX(-400%);
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__slide:nth-of-type(5) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__controls:nth-of-type(5) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(5) {
+  opacity: 1;
+}
+
+
+.carousel__control {
+  height: 30px;
+  width: 30px;
+  margin-top: -15px;
+  top: 50%;
+  position: absolute;
+  display: block;
+  cursor: pointer;
+  border-width: 5px 5px 0 0;
+  border-style: solid;
+  border-color: #fafafa;
+  opacity: 0.35;
+  opacity: 1;
+  outline: 0;
+  z-index: 3;
+}
+.carousel__control:hover {
+  opacity: 1;
+}
+.carousel__control--backward {
+  left: 20px;
+  -webkit-transform: rotate(-135deg);
+          transform: rotate(-135deg);
+}
+.carousel__control--forward {
+  right: 20px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.carousel__indicators {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+.carousel__indicator {
+  height: 15px;
+  width: 15px;
+  border-radius: 100%;
+  display: inline-block;
+  z-index: 2;
+  cursor: pointer;
+  opacity: 0.35;
+  margin: 0 2.5px 0 2.5px;
+}
+.carousel__indicator:hover {
+  opacity: 0.75;
+}
+.carousel__track {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  transition: -webkit-transform 0.5s ease 0s;
+  transition: transform 0.5s ease 0s;
+  transition: transform 0.5s ease 0s, -webkit-transform 0.5s ease 0s;
+}
+.carousel__track .carousel__slide {
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+}
+
+.carousel__track .carousel__slide:nth-of-type(1) {
+  -webkit-transform: translateX(000%);
+          transform: translateX(000%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(2) {
+  -webkit-transform: translateX(100%);
+          transform: translateX(100%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(3) {
+  -webkit-transform: translateX(200%);
+          transform: translateX(200%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(4) {
+  -webkit-transform: translateX(300%);
+          transform: translateX(300%);
+}
+
+.carousel__track .carousel__slide:nth-of-type(5) {
+  -webkit-transform: translateX(400%);
+          transform: translateX(400%);
+}
+
+
+.carousel--scale .carousel__slide {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+}
+.carousel__slide {
+  height: 100%;
+  position: absolute;
+  opacity: 0;
+  overflow: hidden;
+}
+.carousel__slide .overlay {height: 100%;}
+.carousel--thumb .carousel__indicator {
+  height: 30px;
+  width: 30px;
+}
+.carousel__indicator {
+  background-color: #fafafa;
+}
+
+.carousel__slide:nth-of-type(1),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(2),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(2) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(3),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(3) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(4),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(5),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
+  background-size: cover;
+  background-position: center;
+}
+
+&lt;/style&gt;
+
+&lt;h4 id=&quot;credits&quot;&gt;Credits&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Picture Credits: &lt;a href=&quot;https://appmech.nitk.ac.in/faculty/pruthviraj-u&quot;&gt;Prof. Pruthiviraj Umesh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>[&quot;shravan&quot;, &quot;mishal&quot;]</name></author><category term="hackverse" /><summary type="html">Congratulations on getting selected for HackVerse ‘20!</summary></entry><entry><title type="html">Welcome HackVerse</title><link href="/blog/welcome" rel="alternate" type="text/html" title="Welcome HackVerse" /><published>2019-11-16T10:00:00+00:00</published><updated>2019-11-16T10:00:00+00:00</updated><id>/blog/welcome</id><content type="html" xml:base="/blog/welcome">&lt;p&gt;NITK, Surathkal!&lt;/p&gt;
+
+&lt;p&gt;This page is still being edited covering the story behind HackVerse!&lt;/p&gt;
+
+&lt;p&gt;Do join our Telegram Channel to meet an awesome community of hackers: &lt;a href=&quot;https://t.me/hackverse&quot;&gt;link&lt;/a&gt;&lt;/p&gt;</content><author><name>Mishal Shah</name></author><category term="hackverse" /><summary type="html">NITK, Surathkal!</summary></entry></feed>

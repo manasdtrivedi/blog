@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/blog/author/mishal/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2021-02-27T06:38:52+00:00</updated>
+  <id>/blog/author/mishal/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">HackVerse Blog | </title>
+  
+
+  
+    <subtitle>Hack It, Till You Crack it!</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Welcome HackVerse</title>
+      <link href="/blog/welcome" rel="alternate" type="text/html" title="Welcome HackVerse" />
+      <published>2019-11-16T10:00:00+00:00</published>
+      <updated>2019-11-16T10:00:00+00:00</updated>
+      <id>/blog/welcome</id>
+      <content type="html" xml:base="/blog/welcome">&lt;p&gt;NITK, Surathkal!&lt;/p&gt;
+
+&lt;p&gt;This page is still being edited covering the story behind HackVerse!&lt;/p&gt;
+
+&lt;p&gt;Do join our Telegram Channel to meet an awesome community of hackers: &lt;a href=&quot;https://t.me/hackverse&quot;&gt;link&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Mishal Shah</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hackverse" />
+      
+
+      
+        <summary type="html">NITK, Surathkal!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!-- Document Settings -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Base Meta -->
+    <!-- dynamically fixing the title for tag/author pages -->
+
+
+
+    <title>Under the Coding Hood Hackverse 2020</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Styles'n'Scripts -->
+    <link rel="stylesheet" type="text/css" href="/blog/assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/blog/assets/built/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="/blog/assets/built/syntax.css" />
+    <!-- highlight.js -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+    <style>.hljs { background: none; }</style>
+
+    <!--[if IE]>
+        <style>
+            p, ol, ul{
+                width: 100%;
+            }
+            blockquote{
+                width: 100%;
+            }
+        </style>
+    <![endif]-->
+    
+    <!-- This tag outputs SEO meta+structured data and other important settings -->
+    <meta name="description" content="Hack It, Till You Crack it!" />
+    <link rel="shortcut icon" href="/blog/assets/images/LOGO.png" type="image/png" />
+    <link rel="canonical" href="/blog/under-the-coding-hood-hackverse-2020" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+
+     <!--title below is coming from _includes/dynamic_title-->
+    <meta property="og:site_name" content="HackVerse Blog" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Under the Coding Hood Hackverse 2020" />
+    <meta property="og:description" content="At NIT-K, Surathkal on 25th and 26th January Sometime in October, Utkarsh Raj from CUSAT asks if I am interested to go for a hackathon listed on Devfolio called HackVerse. This was a few weeks after InOut Hackathon and I knew for a fact (from that experience) that Devfolio Hackathons" />
+    <meta property="og:url" content="/blog/under-the-coding-hood-hackverse-2020" />
+    <meta property="og:image" content="/blog/assets/images/under-coding-hood/mec.jpeg" />
+    <meta property="article:publisher" content="https://www.facebook.com/hackverse" />
+    <meta property="article:author" content="https://www.facebook.com/hackverse" />
+    <meta property="article:published_time" content="2020-02-02T01:00:00+00:00" />
+    <meta property="article:modified_time" content="2020-02-02T01:00:00+00:00" />
+    <meta property="article:tag" content="Hackathons" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Under the Coding Hood Hackverse 2020" />
+    <meta name="twitter:description" content="At NIT-K, Surathkal on 25th and 26th January Sometime in October, Utkarsh Raj from CUSAT asks if I am interested to go for a hackathon listed on Devfolio called HackVerse. This was a few weeks after InOut Hackathon and I knew for a fact (from that experience) that Devfolio Hackathons" />
+    <meta name="twitter:url" content="/blog/" />
+    <meta name="twitter:image" content="/blog/assets/images/under-coding-hood/mec.jpeg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="HackVerse Blog" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Hackathons" />
+    <meta name="twitter:site" content="@hackversenitk" />
+    <meta name="twitter:creator" content="@hackversenitk" />
+    <meta property="og:image:width" content="1400" />
+    <meta property="og:image:height" content="933" />
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+        "@type": "Organization",
+        "name": "HackVerse Blog",
+        "logo": "/blog/assets/images/textlogo.png"
+    },
+    "url": "/blog/under-the-coding-hood-hackverse-2020",
+    "image": {
+        "@type": "ImageObject",
+        "url": "/blog/assets/images/under-coding-hood/mec.jpeg",
+        "width": 2000,
+        "height": 666
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "/blog/under-the-coding-hood-hackverse-2020"
+    },
+    "description": "At NIT-K, Surathkal on 25th and 26th January Sometime in October, Utkarsh Raj from CUSAT asks if I am interested to go for a hackathon listed on Devfolio called HackVerse. This was a few weeks after InOut Hackathon and I knew for a fact (from that experience) that Devfolio Hackathons"
+}
+    </script>
+
+
+    <meta name="generator" content="Jekyll 3.6.2" />
+    <link rel="alternate" type="application/rss+xml" title="Under the Coding Hood Hackverse 2020" href="/blog/feed.xml" />
+
+
+</head>
+<body class="post-template">
+
+    <div class="site-wrapper">
+        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
+        <!-- default -->
+
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<header class="site-header outer">
+    <div class="inner">
+        <nav class="site-nav">
+    <div class="site-nav-left">
+        
+            
+                <a class="site-nav-logo" href="/blog/"><img src="/blog/assets/images/textlogo.png" alt="HackVerse Blog" /></a>
+            
+        
+        
+            <ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="/blog/">Home</a></li>
+    <li class="nav-try-ghost" role="menuitem"><a href="https://hackverse.nitk.ac.in">Website</a></li>
+</ul>
+
+        
+    </div>
+    <div class="site-nav-right">
+        <div class="social-links">
+            
+                <a class="social-link social-link-tw" href="https://instagram.com/hackversenitk" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+</a>
+            
+            
+                <a class="social-link social-link-fb" href="https://facebook.com/hackverse" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+</a>
+            
+            
+                <a class="social-link social-link-tw" href="https://twitter.com/hackversenitk" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+</a>
+            
+            
+                <a class="social-link social-link-fb" href="https://linkedin.com/company/hackverse" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+</a>
+            
+            
+                <a class="social-link social-link-fb" href="https://t.me/hackverse" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23"><path d="M18.384,22.779c0.322,0.228 0.737,0.285 1.107,0.145c0.37,-0.141 0.642,-0.457 0.724,-0.84c0.869,-4.084 2.977,-14.421 3.768,-18.136c0.06,-0.28 -0.04,-0.571 -0.26,-0.758c-0.22,-0.187 -0.525,-0.241 -0.797,-0.14c-4.193,1.552 -17.106,6.397 -22.384,8.35c-0.335,0.124 -0.553,0.446 -0.542,0.799c0.012,0.354 0.25,0.661 0.593,0.764c2.367,0.708 5.474,1.693 5.474,1.693c0,0 1.452,4.385 2.209,6.615c0.095,0.28 0.314,0.5 0.603,0.576c0.288,0.075 0.596,-0.004 0.811,-0.207c1.216,-1.148 3.096,-2.923 3.096,-2.923c0,0 3.572,2.619 5.598,4.062Zm-11.01,-8.677l1.679,5.538l0.373,-3.507c0,0 6.487,-5.851 10.185,-9.186c0.108,-0.098 0.123,-0.262 0.033,-0.377c-0.089,-0.115 -0.253,-0.142 -0.376,-0.064c-4.286,2.737 -11.894,7.596 -11.894,7.596Z"/></svg></a>
+            
+        </div>
+        
+    </div>
+</nav>
+
+    </div>
+</header>
+
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <article class="post-full post hackverse ">
+
+            <header class="post-full-header">
+                <section class="post-full-meta">
+                    <time class="post-full-meta-date" datetime=" 2 February 2020"> 2 February 2020</time>
+                    
+                        <span class="date-divider">/</span>
+                        
+                            
+                               <a href='/blog/tag/hackathons/'>HACKATHONS</a>
+                            
+                        
+                    
+                </section>
+                <h1 class="post-full-title">Under the Coding Hood Hackverse 2020</h1>
+            </header>
+
+            
+            <figure class="post-full-image" style="background-image: url(/blog/assets/images/under-coding-hood/mec.jpeg)">
+            </figure>
+            
+
+            <section class="post-full-content">
+                <div class="kg-card-markdown">
+                    <p>At NIT-K, Surathkal on 25th and 26th January</p>
+
+<p>Sometime in October, <a href="https://medium.com/u/dca2c8e6c7fd">Utkarsh Raj</a> from CUSAT asks if I am interested to go for a hackathon listed on Devfolio called <a href="hackverse">HackVerse</a>. This was a few weeks after <a href="https://hackinout.co">InOut Hackathon</a> and I knew for a fact (from that experience) that Devfolio Hackathons are on a whole other spectrum level of awesomeness. So I agreed and together (along with his classmate Ravi Jyothi) we registered as <em>Team Fortitude</em>.</p>
+
+<p>Our initial idea was to develop a chapter summarizer application to help students intake big volumes of textbook content in daily dosages thus gaining constant momentum. However, Utkarsh had gone for HackOff Hackathon at VIT, Vellore (another Devfolio Hackathon) and tried this idea — which was not quite well received as an existing solutions is doing quite well. Thus we continued brainstorming until we settled for the following idea (spoiler: We changed this idea during the hackathon):</p>
+
+<h3 id="idea-1">Idea #1</h3>
+
+<blockquote>
+  <p>Most of us are clueless about the options we have at college to up skill oneself, the choices one has to make as a result and the effect it has in your long term plan of molding your career. Most of the times it results in a hit-and-trial situation where the lucky one’s find gold while most of the rest and filled with regret and confusion by the end of their time in college.</p>
+
+  <p>So to provide means to understand the scope and the paths forward, I thought of developing <a href="https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure">‘Choose Your Own Adventure’</a> game where the user plays a simulation where we ask questions and based on the choices they make, their points change and in the end of 4 years of simulation, we contrast and see which alumni best matches with the path she chose — and thus connect the two. If dissatisfied, the user can play the game again this time with different options and see what other endings you get.</p>
+</blockquote>
+
+<p>We met up a week before at CUSAT to discuss about the same. I decided to use <a href="https://twinery.org/">Twine</a> to design the story, Ravi said he will look into <a href="https://flutter.dev/">Flutter</a> App Development for the front end, and Utkarsh said he will take care of the backend using <a href="https://firebase.google.com/">Firebase</a>. However, that week went past quite fast and we all could not find the time to set up our systems suitably.</p>
+
+<h3 id="friday">Friday</h3>
+
+<p>I make it to Ernakulam South railway station. Ameen, Rindish and Afnan join in a while. We departed around 8.20 PM. Utkarsh and Ravi boarded from Aluva half an hour later. We discussed a while about the ideas to include in our product. After dinner, we went to sleep.</p>
+
+<h3 id="saturday">Saturday</h3>
+
+<p>Devdutt wakes me up at Suratkal. Apparently we reached 30 minutes early. Much to my surprise, Abhishek from CET is also there. Well, hackathon already looks promising.</p>
+
+<p>We took two autos and reached the college by 5.45 AM. Nishant our point of contact was already at the front gate and in good spirits. We were escorted to our hostel where we freshened up and got some sleep. Around 8.30 AM we headed off to the venue — Lecture Complex Hall.</p>
+
+<p>We got to meet the other folks from my college who also came for the hackathon. After breakfast, we chilled for a while until the opening ceremony.</p>
+
+<hr />
+
+<p>The inaugural ceremony was spectacular. Notable folks from the industry shared their words of wisdom to the participants on how to be industry ready through hackathons and other competitions.</p>
+
+<ul>
+  <li>Professor Reddy commended the organizing team for coming up with the name of <em>HackVerse</em> for verse meant to condense a deep message in a simple manner — much as what this hackathon hopes to see in the projects to be built in the time to come. He explained how time is finite thus weekend hacks is a great way to maximize and learn.</li>
+  <li>The CTO of Well Fargo explained how hackathons challenge participants to adopt and find potential of new technologies in a world of great uncertainty, high stakes and opportunity cost. He believes a much needed skill for the industry is to have people who are collaborative, creative and capable of delivering results under pressure. The success of your venture lies not merely in the proof concept but in finding its place in the real world market.</li>
+  <li>Dr. Divakar, the director of Google Cloud India delivered a very intriguing speech that struck a chord with most students. He beleives that 3 buckets exists: (#1) Industry, (#2) Tech People, and (#3) Students. The industry is slow and fearful while students are fast and fearless. For students to transition in to Tech People profile means to work at a place that scales up like an enterprise and innovates like a startup. The industry focuses on User needs. He shared 3 critical principles: &lt;#1&gt; What got you here won’t get you there. You need to continuously be learning. &lt;#2&gt; Understand whether you are running or sprinting in this marathon of a journey we take in the world of tech. Patience is important. &lt;#3&gt; Seek knowledge, and money will follow. Find a purpose worth pursuing and people will want your expertise to bring out the best results.</li>
+</ul>
+
+<blockquote>
+  <p>Extraordinary people are ordinary people with extra thinking</p>
+</blockquote>
+
+<p><img src="./assets/images/under-coding-hood/lhcc.JPG" alt="LHC-C Seminar Hall" /></p>
+
+<p>After the inaugural ceremony, the following tech talk sessions were there:</p>
+
+<ul>
+  <li><strong>Aravind from Elastic Search</strong> explained how search plays a critical role in multiple sectors. The Elastic stack includes Kibana, Elastic Search, Beats, and Logstash. To learn more about it, click <a href="http://ela.st/search">here</a> and <a href="https://ela.st/community-trial">here</a>.</li>
+  <li><strong>Containers by Saurabh Gupta</strong>: The speaker from Digital Ocean explained the transition from Devs to Ops as two units to a combined entity called DevOps to handle Deployment fails. Implementing is not the same as evaluating, especially when a community is lacking. We must give time for tech to mature. Startups are the first adopters but MNCs wait to see results.</li>
+</ul>
+
+<blockquote>
+  <p>The ones who climb up the ladder are those who pick up new skills very quick and go beyond the comfort zone.</p>
+</blockquote>
+
+<ul>
+  <li><strong>Technologists in the Financial Sector, by Bharat, CTO, Wells Fargo</strong>: He explained how Behavioral Banking takes different approaches for different people. It takes a risk model to assess the potential failure cases in transactions. He went on to talk about <a href="https://www.investopedia.com/terms/h/high-frequency-trading.asp">High Frequency Trading</a> where nanosecond variations play a big factor in the success of a trade.</li>
+</ul>
+
+<blockquote>
+  <p>Work in an area that excites you. Put your best in your work.</p>
+</blockquote>
+
+<p>During these talks, I was introduced to a new concept: <strong>Developer Experience</strong>! DX is for developers what UX is for Users :)</p>
+
+<p>I skipped taking notes for a few talk sessions so apologies for the incomplete list. The talks concluded by 3.45 PM I believe. The organizers informed us of the judging criteria factors:</p>
+
+<ul>
+  <li>Originality</li>
+  <li>Business Opportunity/ Social relevance</li>
+  <li>Innovation</li>
+  <li>Novelty</li>
+  <li>Time to market</li>
+  <li>Potential</li>
+</ul>
+
+<p>Personally, our idea may seem new, yet it won’t stand out when compared to the amazing machine learning based projects that other teams built. Nevertheless, we were here to have a start, and that I am certain we will achieve.</p>
+
+<p>Hackathon started shortly, and we moved to classroom to set up our device.</p>
+
+<hr />
+
+<p>We had a discussion about the idea of UniSim but soon realized that it is not good enough considering the fact that it is a one-time-use app. We started to stop seeing value in it. Instead, when I spoke about the idea of <em>Cirgle</em> by Gopi Chetan, Utkarsh sounded excited and thus we decided to pivot at 10 PM.</p>
+
+<h3 id="idea-2">Idea #2</h3>
+
+<blockquote>
+  <p>There is no one good social network for programmers that encourages in person meetings. Sure, Reddit forums, facebook groups, DevRant try to achieve this yet we found a few challenges that must be tackled first. In our idea, we imagined to use the 6 stage model to set barriers, use geographical location to provide city based news feeds on what projects others are working and connect them on the basis of experience level as well as the tech stack.</p>
+</blockquote>
+
+<p>I agree the idea lacks mention-worthy originality but we could see the potential it held if implemented right in the real world.</p>
+
+<p>Ravi and Utkarsh tried to work on the Firebase backend while I tried to learn flutter. Setting it up took a couple of hours itself. They considered making PWA (Progressive Web App) when a flutter app seemed unrealistic within the time frame. Finally we tried to get a basic website done using HTML and CSS.</p>
+
+<p>I took break quite often to play chess and talk to others. I had a lot of fun learning concepts from Arun, a student from CET who has a very deep manner of thinking. Yet at times I felt lonely as I was unable to get the work done in time. Thankfully, the volunteers offered refreshments and I played quite a bit of music to bridge the gaps.</p>
+
+<p>I slept for 3 hours from 4 AM to 7 AM. The other two slept very little to ensure we had results to show. I commend their spirit.</p>
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fspeakerdeck.com%2Fplayer%2Fa30c278da3df4c9a93dd2678c36220c0&amp;display_name=Speaker+Deck&amp;url=https%3A%2F%2Fspeakerdeck.com%2Fjohnover_board%2Fcirgle-hackverse-2020&amp;image=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2Fa30c278da3df4c9a93dd2678c36220c0%2Fslide_0.jpg%3F596010&amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;type=text%2Fhtml&amp;schema=speakerdeck" allowfullscreen="" title="Cirgle | Hackverse 2020" class="cp t u jb ak" scrolling="auto" width="710" height="399" frameborder="0"></iframe>
+
+<h3 id="sunday">Sunday</h3>
+
+<p>Being the republic day, we were taken to witness the march past in the campus by the NSS and students. It was really well done but unfortunately I did not have my phone around to take photographs.</p>
+
+<p>Back at the venue, we tinkered bit by bit. These are the screenshots of what we created in the end.</p>
+
+<p><img src="./assets/images/under-coding-hood/cirgle-1.JPG" alt="Cirgle" />
+<img src="./assets/images/under-coding-hood/cirgle-2.JPG" alt="Cirgle" /></p>
+
+<p>Denver from Devfolio reviewed our work. While he did not seem impressed, he did encourage us to continue working on it in the time to come.</p>
+
+<p>Here are a few pictures from the event&gt; <a href="https://photos.app.goo.gl/ZUnBBBr9nvJESYAa8">Click here</a></p>
+
+<p>After dinner, we took a train to Manglore and then waited till 3 AM for the train. Had some quality time with friends.</p>
+
+<p><img src="./assets/images/under-coding-hood/station.JPG" alt="Station" />
+<img src="./assets/images/under-coding-hood/judging.jpeg" alt="Judging" /></p>
+
+<p><em>Originally published at <a href="https://medium.com/@joelvzach/under-the-coding-hood-hackverse-2020-aab616200a06">https://medium.com/@joelvzach/under-the-coding-hood-hackverse-2020-aab616200a06</a> on February 2, 2020</em></p>
+
+
+                </div>
+            </section>
+
+            <!-- Email subscribe form at the bottom of the page -->
+            
+            
+            <footer class="post-full-footer">
+                <!-- Everything inside the #author tags pulls data from the author -->
+                <!-- #author-->
+                
+                    <section class="author-card">
+                        
+                            <img class="author-profile-image" src="/blog/assets/images/joel.jpg" alt="joel" />
+                        
+                        <section class="author-card-content">
+                            <h4 class="author-card-name"><a href="/blog/author/joel">Joel V Zachariah</a></h4>
+                            
+                                <p>Senior year student from Govt. Model Engineering College with a keen interest in community development matters and nurturing talent in the student pool.</p>
+                            
+                        </section>
+                    </section>
+                    <div class="post-full-footer-right">
+                        <a class="author-card-button" href="/blog/author/joel">Read More</a>
+                    </div>
+                
+                <!-- /author  -->
+            </footer>
+            
+
+            <!-- If you use Disqus comments, just uncomment this block.
+            The only thing you need to change is "test-apkdzgmqhj" - which
+            should be replaced with your own Disqus site-id. -->
+            
+
+        </article>
+
+    </div>
+</main>
+
+<!-- Links to Previous/Next posts -->
+<aside class="read-next outer">
+    <div class="inner">
+        <div class="read-next-feed">
+            
+                
+                
+                
+                
+            
+
+            <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+            
+                
+
+    <article class="post-card post-template">
+        
+            <a class="post-card-image-link" href="/blog/behind-the-scenes">
+                <div class="post-card-image" style="background-image: url(/blog/assets/images/behind-the-scenes/team-group.jpg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/blog/behind-the-scenes">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Hackverse</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">HackVerse’20: Behind The Scenes</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p></p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
+            
+
+            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
+            
+                
+
+    <article class="post-card post-template">
+        
+            <a class="post-card-image-link" href="/blog/hackverse20-hack-ideas">
+                <div class="post-card-image" style="background-image: url(/blog/assets/images/ideas.jpg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/blog/hackverse20-hack-ideas">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Hackverse</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">HackVerse'20 API Prizes and Hacks!</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p></p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
+            
+
+        </div>
+    </div>
+</aside>
+
+<!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
+<div class="floating-header">
+    <div class="floating-header-logo">
+        <a href="/blog/">
+            
+                <img src="/blog/assets/images/textlogo.png" alt="HackVerse Blog icon" />
+            
+            <span>HackVerse Blog</span>
+        </a>
+    </div>
+    <span class="floating-header-divider">&mdash;</span>
+    <div class="floating-header-title">Under the Coding Hood Hackverse 2020</div>
+    <div class="floating-header-share">
+        <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
+</svg>
+</div>
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Under+the+Coding+Hood+Hackverse+2020&amp;url=https://hackverse.nitk.ac.in/blog/under-the-coding-hood-hackverse-2020"
+            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+
+        </a>
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://hackverse.nitk.ac.in/blog/under-the-coding-hood-hackverse-2020"
+            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+
+        </a>
+    </div>
+    <progress class="progress" value="0">
+        <div class="progress-container">
+            <span class="progress-bar"></span>
+        </div>
+    </progress>
+</div>
+
+
+<!-- /post -->
+
+<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
+
+
+        <!-- Previous/next page links - displayed on every page -->
+        
+
+        <!-- The footer at the very bottom of the screen -->
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright"><a href="/blog/">HackVerse Blog</a> &copy; 2021</section>
+                <nav class="site-footer-nav">
+                    <!-- <a href="/blog/">Latest Posts</a> -->
+                    <a href="https://instagram.com/hackversenitk" target="_blank" rel="noopener">Instagram</a>
+                    <a href="https://facebook.com/hackverse" target="_blank" rel="noopener">Facebook</a>
+                    <a href="https://twitter.com/hackversenitk" target="_blank" rel="noopener">Twitter</a>
+                    <a href="https://linkedin.com/company/hackverse" target="_blank" rel="noopener">LinkedIn</a>
+                    <a href="https://t.me/hackverse" target="_blank" rel="noopener">Telegram</a>
+                </nav>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- The big email subscribe modal content -->
+    
+
+    <!-- highlight.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
+    <script>$(document).ready(function() {
+      $('pre code').each(function(i, block) {
+        hljs.highlightBlock(block);
+      });
+    });</script>
+
+    <!-- jQuery + Fitvids, which makes all video embeds responsive -->
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="/blog/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+
+
+    <!-- Paginator increased to "infinit" in _config.yml -->
+    <!-- if paginator.posts  -->
+    <!-- <script>
+        var maxPages = parseInt('');
+    </script>
+    <script src="/blog/assets/js/infinitescroll.js"></script> -->
+    <!-- /endif -->
+
+    
+
+
+    <!-- Add Google Analytics  -->
+    <!-- Google Analytics Tracking code -->
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-149404272-1', 'auto');
+  ga('send', 'pageview');
+
+ </script>
+
+
+    <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+
+// NOTE: Scroll performance is poor in Safari
+// - this appears to be due to the events firing much more slowly in Safari.
+//   Dropping the scroll event and using only a raf loop results in smoother
+//   scrolling but continuous processing even when not scrolling
+$(document).ready(function () {
+    // Start fitVids
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    // End fitVids
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        // show/hide floating header
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+
+    
+
+    <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
+    <!-- ghost_foot -->
+
+</body>
+</html>
